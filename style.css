@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Copper Pot";
+    src: url("fonts/copperpot-regular.woff2?815-hash") format("woff2");
+    font-display: swap;
+    font-synthesis:style;font-weight: 400
+}
+
+h1 {
+    font-family: "Copper Pot";
+}
